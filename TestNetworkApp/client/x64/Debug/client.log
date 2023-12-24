@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Users\forwa\source\repos\TestNetworkApp\client\client.cpp(62,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\forwa\source\repos\TestNetworkApp\x64\Debug\client.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
